@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "robloxlibrarywebsite",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authrobloxlibrarywebsite76255813",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

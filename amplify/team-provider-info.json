@@ -17,6 +17,37 @@
                     "appId": "d1x7i7alim70ep",
                     "type": "cicd"
                 }
+            },
+            "auth": {
+                "robloxlibrarywebsite76255813": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"904548240796-eipcvbnccic2pl97l0i6gfde3fkujtum.apps.googleusercontent.com\",\"client_secret\":\"I3zBncSrQQ8ujOtJmD6swztC\"}]"
+                }
+            }
+        }
+    },
+    "production": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-robloxlibrarywebsite-production-100214-authRole",
+            "UnauthRoleArn": "arn:aws:iam::160477935000:role/amplify-robloxlibrarywebsite-production-100214-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::160477935000:role/amplify-robloxlibrarywebsite-production-100214-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-robloxlibrarywebsite-production-100214-deployment",
+            "UnauthRoleName": "amplify-robloxlibrarywebsite-production-100214-unauthRole",
+            "StackName": "amplify-robloxlibrarywebsite-production-100214",
+            "StackId": "arn:aws:cloudformation:us-west-2:160477935000:stack/amplify-robloxlibrarywebsite-production-100214/1da8e6a0-6713-11eb-ad59-0afb4466226d",
+            "AmplifyAppId": "d1x7i7alim70ep"
+        },
+        "categories": {
+            "auth": {
+                "robloxlibrarywebsite76255813": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"904548240796-eipcvbnccic2pl97l0i6gfde3fkujtum.apps.googleusercontent.com\",\"client_secret\":\"I3zBncSrQQ8ujOtJmD6swztC\"}]"
+                }
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1x7i7alim70ep",
+                    "type": "cicd"
+                }
             }
         }
     }
