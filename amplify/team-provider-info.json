@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-robloxlibrarywebsite-dev-00153-authRole",
+            "UnauthRoleArn": "arn:aws:iam::160477935000:role/amplify-robloxlibrarywebsite-dev-00153-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::160477935000:role/amplify-robloxlibrarywebsite-dev-00153-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-robloxlibrarywebsite-dev-00153-deployment",
+            "UnauthRoleName": "amplify-robloxlibrarywebsite-dev-00153-unauthRole",
+            "StackName": "amplify-robloxlibrarywebsite-dev-00153",
+            "StackId": "arn:aws:cloudformation:us-west-2:160477935000:stack/amplify-robloxlibrarywebsite-dev-00153/40188eb0-66bf-11eb-af62-061c98184715",
+            "AmplifyAppId": "d1x7i7alim70ep"
+        }
+    }
+}
