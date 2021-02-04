@@ -10,6 +10,14 @@
             "StackName": "amplify-robloxlibrarywebsite-dev-00153",
             "StackId": "arn:aws:cloudformation:us-west-2:160477935000:stack/amplify-robloxlibrarywebsite-dev-00153/40188eb0-66bf-11eb-af62-061c98184715",
             "AmplifyAppId": "d1x7i7alim70ep"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1x7i7alim70ep",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
